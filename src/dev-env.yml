@@ -121,7 +121,7 @@ CONFIG_SESSION_PHONE:
 
 # Set qrcode display limit
 QRCODE:
-  LIMIT: 30
+  LIMIT: 200
 
 # Defines an authentication type for the api
 # We recommend using the apikey because it will allow you to use a custom token,
